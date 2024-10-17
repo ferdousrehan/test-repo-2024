@@ -1,1 +1,2 @@
 Two is 2. Second file.
+New line is here.
